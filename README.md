@@ -78,7 +78,7 @@ module gates(a, b, c1, c2, c3, c4, c5, c6, c7);
     assign c7 = ~(a ^ b);
 endmodule
 
- Developed by:deepika v
+ Developed by:Deepika.V
  RegisterNumber: 24000724
  
 **Logic symbol & Truthtable**
